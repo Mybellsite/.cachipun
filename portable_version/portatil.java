@@ -1,5 +1,3 @@
-package cachipun;
-
 import java.awt.Point;
 import java.awt.Toolkit;
 
