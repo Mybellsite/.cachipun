@@ -6,7 +6,9 @@ import java.awt.Toolkit;
 import javax.swing.JFrame;
 
 public class portatil {
-  Window window = new Window();
+	public static void main(String[] args) {
+		Window window = new Window();
+	}
 }
 
 public class Window {
