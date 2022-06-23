@@ -23,5 +23,5 @@ un computador con **java-17.0.2** instalado
 git clone https://github.com/Mybellsite/.cachipun.git
 cd .cachipun
 cd portable_version
-java portable.java
+java portatil.java
 ```
